@@ -19,11 +19,3 @@ function setRotation(element, rotationRatio) {
 }
 
 setClock();
-
-
-// setInterval(setClock,1000)
-
-// function setClock(){
-// 	const currentDate=new Date();
-
-// }
